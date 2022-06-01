@@ -12,4 +12,5 @@ Text Domain: Divi-child
 Template: divi
 */
 
-div{background: #eee;}
+div{background: #eee; font-size: 15px; color: #000;}
+
